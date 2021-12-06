@@ -419,6 +419,11 @@
     margin-right: 3.5rem;
     margin-left: 2rem;
 }
+.carosual-slide {
+    padding-top: 6.875rem;
+    padding-bottom: 6.875rem;
+    background-color: #2f2c3d;
+}
 
 /* Details-2 section */
 .header-1{
